@@ -1,0 +1,68 @@
+/* forn link */
+body {
+    font-family: 'Merriweather', serif;
+}
+
+/* header section styles */
+.header {
+    background: url("../images/Banner\ Image.png");
+    background-repeat: no-repeat;
+    background-size: 1320px;
+    height: 600px;
+    margin-left: 100px;
+
+
+}
+
+.header-backgroumd-content {
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+.header-text-1 {
+    color: rgb(47, 134, 255);
+    font-size: 32px;
+    font-weight: 400;
+
+}
+
+.header-text-2 {
+    color: rgb(47, 134, 255);
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+/* Offer section styles */
+.offer {
+    margin-top: 120px;
+}
+
+.offer-content {
+    text-align: center;
+}
+
+.offer-text-1 {
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+}
+
+.offer-text-2 {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.ALL-CATEGORIES {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+.offer-img{
+    text-align: center;
+    padding-top: 48px;
+}
