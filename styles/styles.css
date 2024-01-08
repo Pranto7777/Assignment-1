@@ -219,19 +219,19 @@ body {
     margin-top: 200px;
 }
 
+/* holiday section styles */
 .holidays-content-img {
     display: flex;
     padding-top: 69px;
 }
 
-.holidays-content-img-2{
+.holidays-content-img-2 {
     padding-left: 195px;
 }
 
 .holidays-content-img-banner {
     position: absolute;
     top: 4310px;
-    left: ;
     z-index: -1;
     margin: 100px;
 }
@@ -247,7 +247,7 @@ body {
     font-size: 72px;
     font-weight: 900px;
     padding-bottom: 24px;
-    
+
 }
 
 .holidays-content-text-3 {
@@ -256,4 +256,91 @@ body {
     font-weight: 500;
     line-height: 32px;
     padding-top: 24px;
+}
+
+/* product section styles */
+.product {
+    margin-top: 120px;
+    margin-left: 100px;
+}
+
+.Rectangle-3:hover{
+    transform: scale(1.1);
+}
+
+.Rectangle-4:hover{
+    transform: scale(1.1);
+}
+
+.Rectangle-5:hover{
+    transform: scale(1.1);
+}
+
+.Rectangle-6:hover{
+    transform: scale(1.1);
+}
+
+.Rectangle-7:hover{
+    transform: scale(1.1);
+}
+
+.Rectangle-8:hover{
+    transform: scale(1.1);
+}
+
+.Rectangle-3{
+    transition: transform 0.3s
+}
+
+.Rectangle-6{
+    transition: transform 0.3s
+}
+
+.Rectangle-4 {
+    padding-left: 10px;
+    transition: transform 0.3s
+}
+
+.Rectangle-5 {
+    padding-left: 10px;
+    transition: transform 0.3s
+}
+
+.Rectangle-7 {
+    padding-left: 10px;
+    transition: transform 0.3s
+}
+
+.Rectangle-8 {
+    padding-left: 10px;
+    transition: transform 0.3s
+}
+
+.product-content-img-l2 {
+    padding-top: 10px;
+    transition: transform 0.3s
+}
+
+.product-content-img-l1 {
+    padding-top: 48px;
+    transition: transform 0.3s
+}
+
+.product-content-text-1 {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.product-content-text-2 {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.product-content-text-3 {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
 }
