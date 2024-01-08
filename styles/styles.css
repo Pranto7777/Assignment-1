@@ -264,35 +264,35 @@ body {
     margin-left: 100px;
 }
 
-.Rectangle-3:hover{
+.Rectangle-3:hover {
     transform: scale(1.1);
 }
 
-.Rectangle-4:hover{
+.Rectangle-4:hover {
     transform: scale(1.1);
 }
 
-.Rectangle-5:hover{
+.Rectangle-5:hover {
     transform: scale(1.1);
 }
 
-.Rectangle-6:hover{
+.Rectangle-6:hover {
     transform: scale(1.1);
 }
 
-.Rectangle-7:hover{
+.Rectangle-7:hover {
     transform: scale(1.1);
 }
 
-.Rectangle-8:hover{
+.Rectangle-8:hover {
     transform: scale(1.1);
 }
 
-.Rectangle-3{
+.Rectangle-3 {
     transition: transform 0.3s
 }
 
-.Rectangle-6{
+.Rectangle-6 {
     transition: transform 0.3s
 }
 
@@ -343,4 +343,54 @@ body {
     font-size: 20px;
     font-weight: 400;
     line-height: 32px;
+}
+
+/* subscription form styles*/
+.subscription-form {
+    background-color: rgba(255, 228, 196, 0.39);
+    margin-top: 120px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.subscription-form {
+    text-align: center;
+}
+
+.Subscribe-btn {
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    border: none;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.email {
+    width: 648px;
+    height: 72px;
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+    border: none;
+    color: rgba(7, 2, 17, 0.30);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.form-padding{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.subscription-form-content-input{
+    padding-top: 40px;
+}
+
+.subscription-form-img{
+    padding-bottom: 40px;
 }
