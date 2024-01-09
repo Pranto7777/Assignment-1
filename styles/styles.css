@@ -382,20 +382,88 @@ body {
     font-weight: 400;
 }
 
-.form-padding{
+.form-padding {
     padding-top: 80px;
     padding-bottom: 80px;
 }
 
-.subscription-form-content-input{
+.subscription-form-content-input {
     padding-top: 40px;
 }
 
-.subscription-form-img{
+.subscription-form-img {
     padding-bottom: 40px;
 }
 
-/* .footer{
+/* footer section styles */
+.footer {
     background-color: #070211;
     margin-top: 120px;
-} */
+}
+
+.number-text {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.website-text {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.footer-content-text-1 {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    padding-right: 559px;
+
+}
+
+.footer-content-text {
+    display: flex;
+}
+
+.number {
+    display: flex;
+}
+
+.website {
+    display: flex;
+}
+
+.footer-content-icon {
+    text-align: center;
+}
+
+
+.footer-content-text-bt {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    display: flex;
+    
+}
+
+.call-icon {
+    width: 24px;
+    height: 24px;
+}
+
+.website-icon {
+    width: 24px;
+    height: 24px;
+}
+
+.footer-content-text-bt-1{
+    padding-right: 1050px;
+}
+
+.footer-content{
+    padding: 120px 120px;
+}
